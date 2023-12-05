@@ -1,0 +1,38 @@
+[
+	{
+		"Error": "Fault_35",
+		"Severity": "3"
+	},
+	{
+		"Error": "Fault_70",
+		"Severity": "1"
+	},
+	{
+		"Error": "Fault_40",
+		"Severity": "3"
+	},
+	{
+		"Error": "Fault_27",
+		"Severity": "2"
+	},
+	{
+		"Error": "Fault_34",
+		"Severity": "3"
+	},
+	{
+		"Error": "Fault_36",
+		"Severity": "2"
+	},
+	{
+		"Error": "Fault_33",
+		"Severity": "1"
+	},
+	{
+		"Error": "Fault_69",
+		"Severity": "2"
+	},
+	{
+		"Error": "Fault_47",
+		"Severity": "1"
+	}
+]

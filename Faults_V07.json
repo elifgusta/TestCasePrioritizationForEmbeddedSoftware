@@ -1,0 +1,122 @@
+[
+	{
+		"Error": "Fault_1",
+		"Severity": "3"
+	},
+	{
+		"Error": "Fault_32",
+		"Severity": "3"
+	},
+	{
+		"Error": "Fault_26",
+		"Severity": "3"
+	},
+	{
+		"Error": "Fault_25",
+		"Severity": "3"
+	},
+	{
+		"Error": "Fault_19",
+		"Severity": "3"
+	},
+	{
+		"Error": "Fault_15",
+		"Severity": "2"
+	},
+	{
+		"Error": "Fault_21",
+		"Severity": "1"
+	},
+	{
+		"Error": "Fault_10",
+		"Severity": "3"
+	},
+	{
+		"Error": "Fault_17",
+		"Severity": "3"
+	},
+	{
+		"Error": "Fault_16",
+		"Severity": "3"
+	},
+	{
+		"Error": "Fault_22",
+		"Severity": "3"
+	},
+	{
+		"Error": "Fault_30",
+		"Severity": "1"
+	},
+	{
+		"Error": "Fault_13",
+		"Severity": "1"
+	},
+	{
+		"Error": "Fault_31",
+		"Severity": "1"
+	},
+	{
+		"Error": "Fault_12",
+		"Severity": "1"
+	},
+	{
+		"Error": "Fault_23",
+		"Severity": "3"
+	},
+	{
+		"Error": "Fault_24",
+		"Severity": "3"
+	},
+	{
+		"Error": "Fault_27",
+		"Severity": "1"
+	},
+	{
+		"Error": "Fault_20",
+		"Severity": "1"
+	},
+	{
+		"Error": "Fault_2",
+		"Severity": "3"
+	},
+	{
+		"Error": "Fault_7",
+		"Severity": "1"
+	},
+	{
+		"Error": "Fault_29",
+		"Severity": "1"
+	},
+	{
+		"Error": "Fault_11",
+		"Severity": "2"
+	},
+	{
+		"Error": "Fault_9",
+		"Severity": "2"
+	},
+	{
+		"Error": "Fault_8",
+		"Severity": "2"
+	},
+	{
+		"Error": "Fault_4",
+		"Severity": "1"
+	},
+	{
+		"Error": "Fault_5",
+		"Severity": "2"
+	},
+	{
+		"Error": "Fault_14",
+		"Severity": "3"
+	},
+	{
+		"Error": "Fault_28",
+		"Severity": "2"
+	},
+	{
+		"Error": "Fault_6",
+		"Severity": "2"
+	}
+]
